@@ -14,3 +14,5 @@ On ASHA, the script `run_remap_ocean_data` can be submitted to the job scheduler
 Unless specified otherwise, all code and documentation was written by [Daniel Hueholt](https://www.hueholt.earth/) as a Graduate Research Assistant advised by [Prof. Elizabeth Barnes](https://sites.google.com/view/barnesgroup-csu) and [Prof. James Hurrell](https://sites.google.com/rams.colostate.edu/hurrellgroup/home) at Colorado State University.
 
 This work was supported by the National Science Foundation Graduate Research Fellowship Program.
+
+Code in this project is licensed under the Open Software License 3.0, included with this repository as LICENSE.txt.
